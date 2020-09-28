@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="home/cido/Documents/git-projects/cidoguita/github-readme.png" alt="a print-screen from a desktop with a forest background. There is an open Terminal Window with a cowsay command saying: Fernando 'Cido' de Freitas. Biologist, programmer & apparently, not a robot.">
+
+
+<!-- Background image by Dhruva Reddy "https://unsplash.com/photos/7NepJK9k8eM" -->
+
 <!--
 **cidoguita/cidoguita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
