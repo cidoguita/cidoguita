@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com" alt="a print-screen from a desktop with a forest background. There is an open Terminal Window with a cowsay command saying: Fernando 'Cido' de Freitas. Biologist, programmer & apparently, not a robot.">
+<img src="https://raw.githubusercontent.com/cidoguita/cidoguita/blob/master/github-readme.png" alt="a print-screen from a desktop with a forest background. There is an open Terminal Window with a cowsay command saying: Fernando 'Cido' de Freitas. Biologist, programmer & apparently, not a robot.">
 
 
 <!-- Background image by Dhruva Reddy "https://unsplash.com/photos/7NepJK9k8eM" -->
